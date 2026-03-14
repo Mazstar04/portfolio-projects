@@ -10,13 +10,13 @@
     "role": "Fullstack Developer"
   },
   {
-    "id": 2,
-    "title": "Slart",
-    "shortDesc": "Slart is a modern creative portfolio platform for showcasing design and digital projects.",
-    "longDesc": "Slart offers a clean and stylish online showcase for creative works and design projects, enabling artists and developers to present their work with visual emphasis and professional flair.",
-    "companyName": "Slart",
-    "imgPath": "placeholder.png",
-    "projectLink": "https://slart.netlify.app/",
+    "id": 5,
+    "title": "X Mineral",
+    "shortDesc": "A modern landing page for a mineral exploration and mining company showcasing services, resources, and industry expertise.",
+    "longDesc": "X Mineral is a corporate website designed to present a mineral exploration and mining company. The platform highlights the company's expertise in mineral resource exploration, mining operations, and sustainable extraction practices. It includes sections for company overview, services, projects, and contact information, providing potential investors and partners with insights into the organization’s capabilities and operations in the mining industry.",
+    "companyName": "X Mineral",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773492613/Screenshot_2026-03-14_134935_g62krv.png",
+    "projectLink": "https://x-mineral.netlify.app/",
     "role": "Frontend Developer"
   },
   {
@@ -35,7 +35,7 @@
     "shortDesc": "An online learning platform offering curated courses in web development and programming.",
     "longDesc": "Code Learners Hub provides a platform to learn, collaborate, and validate skills through curated courses. It has over 15k students taught and more than 12 years of combined tutor experience, offering guidance in Full Stack C#, Python, and JavaScript web development.",
     "companyName": "Sysbeams",
-    "imgPath": "placeholder-image",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773491920/Screenshot_2026-03-14_133748_fv1hst.png",
     "projectLink": "https://codelearnershub.netlify.app",
     "role": "Frontend Developer"
   },
@@ -45,18 +45,18 @@
     "shortDesc": "Kamdun presents tech solutions and digital services for modern businesses.",
     "longDesc": "Kamdun is a tech-focused portfolio site showcasing digital solutions and services aimed at helping businesses grow their online presence and leverage technology for performance and market reach.",
     "companyName": "Kamdun",
-    "imgPath": "placeholder.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773491920/Screenshot_2026-03-14_133405_icr22q.png",
     "projectLink": "https://kamdun.netlify.app/",
     "role": "Frontend Developer"
   },
   {
     "id": 6,
-    "title": "Mazstar Portfolio",
-    "shortDesc": "Personal portfolio showcasing my work, skills, and case studies.",
-    "longDesc": "My personal portfolio highlights professional projects, experience, and capabilities in web development and software engineering for potential employers and clients.",
-    "companyName": "Mazstar",
-    "imgPath": "placeholder.png",
-    "projectLink": "https://mazstar.netlify.app/",
+    "title": "My Portfolio",
+    "shortDesc": "showcases my work and let others know about me. It's like an evergreen platform for my projects, case studies, and information about me.",
+    "longDesc": "It provides a convenient way for potential clients to view my work while also allowing me to expand on my skills and services. This, however, isn’t the ultimate purpose of my portfolio website. The ultimate purpose of my portfolio website is to provide a way for me to land more clients, whether that means freelance work, more clients for my agency or employment at a company.",
+    "companyName": "mazstar.",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684888/portfolio2_oa52pw_v7sjao.png",
+    "projectLink": "#",
     "role": "Frontend Developer"
   },
   {
@@ -65,7 +65,7 @@
     "shortDesc": "Atlaxa is an e-commerce marketplace promoting authentic African goods and entrepreneurial growth.",
     "longDesc": "Atlaxa is a dynamic online marketplace that connects African artisans, manufacturers, and entrepreneurs with global buyers. The platform showcases locally made products across categories such as fashion, crafts, home decor, and art, empowering local businesses to reach wider markets and promote African creativity globally. Atlaxa is designed to support economic growth and trade expansion for small and medium enterprises.",
     "companyName": "Atlaxa",
-    "imgPath": "placeholder.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773492374/Screenshot_2026-03-14_134300_qrwkna.png",
     "projectLink": "https://atlaxa.com/",
     "role": "Frontend Developer"
   },
