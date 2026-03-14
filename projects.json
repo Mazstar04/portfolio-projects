@@ -21,9 +21,8 @@
   },
   {
     "id": 3,
-    "title": "EasyStatements",
-    "shortDesc": "EasyStatements is a web tool that allows users to quickly generate and download professional financial statements.",
-    "longDesc": "EasyStatements is a web-based platform that enables users to create professional financial or account statements quickly and easily. The platform allows users to input relevant information and instantly generate downloadable statements for documentation, verification, or reporting purposes. It simplifies the process of preparing structured financial records without the need for complex spreadsheets or accounting software.",
+    "shortDesc": "An AI-powered platform that helps students quickly generate university applications using voice input.",
+    "longDesc": "EasyStatements is a platform designed to help students fast-track their university application process. Users can record voice notes describing themselves, their achievements, and what they are looking for in a university. The system then uses AI to analyze the information and automatically generate well-structured application statements and supporting content. This simplifies the process of writing application essays and personal statements, helping students present themselves clearly and professionally.",
     "companyName": "EasyStatements",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773494524/Screenshot_2026-03-14_142131_qjpvw2.png",
     "projectLink": "https://easystatements.co/",
@@ -96,7 +95,7 @@
     "longDesc": "A web platform where members of the Ahmadiyya Muslim Jama'at Nigeria (AMJN) and their guests can register to attend the annual Jalsa Salana event. The system streamlines attendee registration, data management, and event coordination for the organization.",
     "companyName": "Sysbeams",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773494019/new_lglddm.png",
-    "projectLink": "https://jalsa.ahmadiyyanigeria.net",
+    "projectLink": "https://jalsa.ahmadiyyanigeria.net/signin",
     "role": "Backend Developer, Frontend Developer, Team Lead"
   },
   {
