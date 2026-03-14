@@ -1,26 +1,96 @@
 [
   {
     "id": 1,
+    "title": "Aztralli",
+    "shortDesc": "Aztralli is an African online marketplace connecting buyers, wholesalers, and sellers with secure escrow payments and delivery services.",
+    "longDesc": "Aztralli is a digital e-commerce platform built to help African businesses and consumers trade efficiently online. The platform connects verified wholesalers and retailers in a secure ecosystem, enabling seamless buying, selling, and delivery while integrating escrow-based payment protection and real-time logistics support.",
+    "companyName": "Aztralli",
+    "imgPath": "placeholder.png",
+    "projectLink": "https://aztralli.com/",
+    "role": "Fullstack Developer"
+  },
+  {
+    "id": 2,
+    "title": "Slart",
+    "shortDesc": "Slart is a modern creative portfolio platform for showcasing design and digital projects.",
+    "longDesc": "Slart offers a clean and stylish online showcase for creative works and design projects, enabling artists and developers to present their work with visual emphasis and professional flair.",
+    "companyName": "Slart",
+    "imgPath": "placeholder.png",
+    "projectLink": "https://slart.netlify.app/",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 3,
+    "title": "Laycons",
+    "shortDesc": "Laycons is a personal creative portfolio showcasing web design and development work.",
+    "longDesc": "Laycons serves as a digital portfolio platform highlighting personal projects, UI/UX design work, and development case studies to attract collaborators and clients.",
+    "companyName": "Laycons",
+    "imgPath": "placeholder.png",
+    "projectLink": "https://laycons.netlify.app/",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 4,
+    "title": "Code Learners Hub",
+    "shortDesc": "An online learning platform offering curated courses in web development and programming.",
+    "longDesc": "Code Learners Hub provides a platform to learn, collaborate, and validate skills through curated courses. It has over 15k students taught and more than 12 years of combined tutor experience, offering guidance in Full Stack C#, Python, and JavaScript web development.",
+    "companyName": "Sysbeams",
+    "imgPath": "placeholder-image",
+    "projectLink": "https://codelearnershub.netlify.app",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 5,
+    "title": "Kamdun",
+    "shortDesc": "Kamdun presents tech solutions and digital services for modern businesses.",
+    "longDesc": "Kamdun is a tech-focused portfolio site showcasing digital solutions and services aimed at helping businesses grow their online presence and leverage technology for performance and market reach.",
+    "companyName": "Kamdun",
+    "imgPath": "placeholder.png",
+    "projectLink": "https://kamdun.netlify.app/",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 6,
+    "title": "Mazstar Portfolio",
+    "shortDesc": "Personal portfolio showcasing my work, skills, and case studies.",
+    "longDesc": "My personal portfolio highlights professional projects, experience, and capabilities in web development and software engineering for potential employers and clients.",
+    "companyName": "Mazstar",
+    "imgPath": "placeholder.png",
+    "projectLink": "https://mazstar.netlify.app/",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 7,
+    "title": "Atlaxa",
+    "shortDesc": "Atlaxa is an e-commerce marketplace promoting authentic African goods and entrepreneurial growth.",
+    "longDesc": "Atlaxa is a dynamic online marketplace that connects African artisans, manufacturers, and entrepreneurs with global buyers. The platform showcases locally made products across categories such as fashion, crafts, home decor, and art, empowering local businesses to reach wider markets and promote African creativity globally. Atlaxa is designed to support economic growth and trade expansion for small and medium enterprises.",
+    "companyName": "Atlaxa",
+    "imgPath": "placeholder.png",
+    "projectLink": "https://atlaxa.com/",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 8,
     "title": "Oddience",
     "shortDesc": "Oddience makes it easy for professionals to launch and scale their private practice.",
-    "longDesc": "Oddience makes it easy for professionals to launch and scale their private practice. Oddience empowers professionals with instant business and booking pages with global payments and conferencing built in.",
+    "longDesc": "Oddience empowers professionals with instant business and booking pages that include global payments and conferencing features to help them grow their practice efficiently.",
     "companyName": "Oddience Inc",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684888/s_bf1zjo_ky5nwq.png",
     "projectLink": "https://oddience.co",
     "role": "Frontend Developer"
   },
   {
-    "id": 2,
+    "id": 9,
     "title": "FGNIEP",
     "shortDesc": "Federal Government of Nigeria IPPIS Enrollment Portal",
-    "longDesc": "The FGNIEP is a system that allows IPPIS to take Data of MDA employees and subsequently take biometrics capturing of these employees. The web application is solely responsible for taking some part of the enrollment data such as the bio-data record, financial record, service records, and so on.",
+    "longDesc": "The FGNIEP is a system that captures enrollment data for IPPIS employees, including bio-data, financial records, service history, and biometric information.",
     "companyName": "Sysbeams",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684886/gg_wipbdw_m0lpb9.png",
     "projectLink": "http://oagfgov.ng:5000/#/login",
     "role": "Frontend Developer"
   },
   {
-    "id": 3,
+    "id": 10,
     "title": "Jalsa Registration Portal",
     "shortDesc": "Ahmadiyya Muslim Jama'at Nigeria(AMJN) Jalsa Salana Registration Portal",
     "longDesc": "It is a website where Ahmadiyya Muslim Jama'at Nigeria (AMJN) members and their guest(s) can register to attend the annual Jalsa Salana event.",
@@ -30,7 +100,7 @@
     "role": "Backend Developer, Frontend Developer, Team Lead"
   },
   {
-    "id": 4,
+    "id": 11,
     "title": "My Portfolio",
     "shortDesc": "showcases my work and let others know about me. It's like an evergreen platform for my projects, case studies, and information about me.",
     "longDesc": "It provides a convenient way for potential clients to view my work while also allowing me to expand on my skills and services. This, however, isn’t the ultimate purpose of my portfolio website. The ultimate purpose of my portfolio website is to provide a way for me to land more clients, whether that means freelance work, more clients for my agency or employment at a company.",
@@ -40,7 +110,7 @@
     "role": "Frontend Developer"
   },
   {
-    "id": 5,
+    "id": 12,
     "title": "Funaab School Portal",
     "shortDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
     "longDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
@@ -50,7 +120,7 @@
     "role": "Backend Developer"
   },
   {
-    "id": 6,
+    "id": 13,
     "title": "Movie App",
     "shortDesc": "movie app is a web app that allows you to view details of content like movies, series and TV shows without requiring a paid subscription.",
     "longDesc": "movie app is a web app that allows you to view details of content like movies, series and TV shows without requiring a paid subscription.",
@@ -60,7 +130,7 @@
     "role": "Frontend Developer"
   },
   {
-    "id": 7,
+    "id": 14,
     "title": "Caleb School Portal",
     "shortDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
     "longDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
@@ -70,7 +140,7 @@
     "role": "Software Engineer"
   },
   {
-    "id": 8,
+    "id": 15,
     "title": "Calculator App",
     "shortDesc": "provides simple mathematical functions in a beautifully designed website. Perform basic calculations such as addition, subtraction, multiplication, and division.",
     "longDesc": "provides simple mathematical functions in a beautifully designed website. Perform basic calculations such as addition, subtraction, multiplication, and division.",
