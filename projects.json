@@ -11,12 +11,12 @@
   },
   {
     "id": 2,
-    "title": "X Mineral",
-    "shortDesc": "A modern landing page for a mineral exploration and mining company showcasing services, resources, and industry expertise.",
-    "longDesc": "X Mineral is a corporate website designed to present a mineral exploration and mining company. The platform highlights the company's expertise in mineral resource exploration, mining operations, and sustainable extraction practices. It includes sections for company overview, services, projects, and contact information, providing potential investors and partners with insights into the organization’s capabilities and operations in the mining industry.",
-    "companyName": "X Mineral",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493742/Screenshot_2026-03-14_140013_cefnwx.png",
-    "projectLink": "https://x-mineral.netlify.app/",
+    "title": "Kamdun",
+    "shortDesc": "Kamdun presents tech solutions and digital services for modern businesses.",
+    "longDesc": "Kamdun is a tech-focused portfolio site showcasing digital solutions and services aimed at helping businesses grow their online presence and leverage technology for performance and market reach.",
+    "companyName": "Kamdun",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493744/Screenshot_2026-03-14_140248_sb9i1v.png",
+    "projectLink": "https://kamdun.netlify.app/",
     "role": "Frontend Developer"
   },
   {
@@ -50,12 +50,12 @@
   },
   {
     "id": 6,
-    "title": "Kamdun",
-    "shortDesc": "Kamdun presents tech solutions and digital services for modern businesses.",
-    "longDesc": "Kamdun is a tech-focused portfolio site showcasing digital solutions and services aimed at helping businesses grow their online presence and leverage technology for performance and market reach.",
-    "companyName": "Kamdun",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493744/Screenshot_2026-03-14_140248_sb9i1v.png",
-    "projectLink": "https://kamdun.netlify.app/",
+    "title": "X Mineral",
+    "shortDesc": "A modern landing page for a mineral exploration and mining company showcasing services, resources, and industry expertise.",
+    "longDesc": "X Mineral is a corporate website designed to present a mineral exploration and mining company. The platform highlights the company's expertise in mineral resource exploration, mining operations, and sustainable extraction practices. It includes sections for company overview, services, projects, and contact information, providing potential investors and partners with insights into the organization’s capabilities and operations in the mining industry.",
+    "companyName": "X Mineral",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493742/Screenshot_2026-03-14_140013_cefnwx.png",
+    "projectLink": "https://x-mineral.netlify.app/",
     "role": "Frontend Developer"
   },
   {
