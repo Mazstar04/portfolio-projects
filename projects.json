@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Aztrallis",
+    "title": "Aztralli",
     "shortDesc": "Aztralli is an African online marketplace connecting buyers, wholesalers, and sellers with secure escrow payments and delivery services.",
     "longDesc": "Aztralli is a digital e-commerce platform built to help African businesses and consumers trade efficiently online. The platform connects verified wholesalers and retailers in a secure ecosystem, enabling seamless buying, selling, and delivery while integrating escrow-based payment protection and real-time logistics support.",
     "companyName": "Aztralli",
@@ -15,7 +15,7 @@
     "shortDesc": "A modern landing page for a mineral exploration and mining company showcasing services, resources, and industry expertise.",
     "longDesc": "X Mineral is a corporate website designed to present a mineral exploration and mining company. The platform highlights the company's expertise in mineral resource exploration, mining operations, and sustainable extraction practices. It includes sections for company overview, services, projects, and contact information, providing potential investors and partners with insights into the organization’s capabilities and operations in the mining industry.",
     "companyName": "X Mineral",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773492613/Screenshot_2026-03-14_134935_g62krv.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493742/Screenshot_2026-03-14_140013_cefnwx.png",
     "projectLink": "https://x-mineral.netlify.app/",
     "role": "Frontend Developer"
   },
@@ -35,7 +35,7 @@
     "shortDesc": "An online learning platform offering curated courses in web development and programming.",
     "longDesc": "Code Learners Hub provides a platform to learn, collaborate, and validate skills through curated courses. It has over 15k students taught and more than 12 years of combined tutor experience, offering guidance in Full Stack C#, Python, and JavaScript web development.",
     "companyName": "Sysbeams",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773491920/Screenshot_2026-03-14_133748_fv1hst.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493744/Screenshot_2026-03-14_140325_d0xni8.png",
     "projectLink": "https://codelearnershub.netlify.app",
     "role": "Frontend Developer"
   },
@@ -45,7 +45,7 @@
     "shortDesc": "Kamdun presents tech solutions and digital services for modern businesses.",
     "longDesc": "Kamdun is a tech-focused portfolio site showcasing digital solutions and services aimed at helping businesses grow their online presence and leverage technology for performance and market reach.",
     "companyName": "Kamdun",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773491920/Screenshot_2026-03-14_133405_icr22q.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493744/Screenshot_2026-03-14_140248_sb9i1v.png",
     "projectLink": "https://kamdun.netlify.app/",
     "role": "Frontend Developer"
   },
@@ -65,7 +65,7 @@
     "shortDesc": "Atlaxa is an e-commerce marketplace promoting authentic African goods and entrepreneurial growth.",
     "longDesc": "Atlaxa is a dynamic online marketplace that connects African artisans, manufacturers, and entrepreneurs with global buyers. The platform showcases locally made products across categories such as fashion, crafts, home decor, and art, empowering local businesses to reach wider markets and promote African creativity globally. Atlaxa is designed to support economic growth and trade expansion for small and medium enterprises.",
     "companyName": "Atlaxa",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773492374/Screenshot_2026-03-14_134300_qrwkna.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493743/Screenshot_2026-03-14_140221_xf5ii7.png",
     "projectLink": "https://atlaxa.com/",
     "role": "Frontend Developer"
   },
@@ -95,7 +95,7 @@
     "shortDesc": "Ahmadiyya Muslim Jama'at Nigeria(AMJN) Jalsa Salana Registration Portal",
     "longDesc": "It is a website where Ahmadiyya Muslim Jama'at Nigeria (AMJN) members and their guest(s) can register to attend the annual Jalsa Salana event.",
     "companyName": "Sysbeams",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684888/jalsa3_md433i_zq6zg8.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773494019/new_lglddm.png",
     "projectLink": "https://jalsa.ahmadiyyanigeria.net",
     "role": "Backend Developer, Frontend Developer, Team Lead"
   },
