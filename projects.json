@@ -80,16 +80,6 @@
     "role": "Frontend Developer"
   },
   {
-    "id": 9,
-    "title": "FGNIEP",
-    "shortDesc": "Federal Government of Nigeria IPPIS Enrollment Portal",
-    "longDesc": "The FGNIEP is a system that captures enrollment data for IPPIS employees, including bio-data, financial records, service history, and biometric information.",
-    "companyName": "Sysbeams",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684886/gg_wipbdw_m0lpb9.png",
-    "projectLink": "http://oagfgov.ng:5000/#/login",
-    "role": "Frontend Developer"
-  },
-  {
     "id": 10,
     "title": "Jalsa Registration Portal",
     "shortDesc": "Ahmadiyya Muslim Jama'at Nigeria(AMJN) Jalsa Salana Registration Portal",
@@ -98,16 +88,6 @@
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773494019/new_lglddm.png",
     "projectLink": "https://jalsa.ahmadiyyanigeria.net",
     "role": "Backend Developer, Frontend Developer, Team Lead"
-  },
-  {
-    "id": 11,
-    "title": "My Portfolio",
-    "shortDesc": "showcases my work and let others know about me. It's like an evergreen platform for my projects, case studies, and information about me.",
-    "longDesc": "It provides a convenient way for potential clients to view my work while also allowing me to expand on my skills and services. This, however, isn’t the ultimate purpose of my portfolio website. The ultimate purpose of my portfolio website is to provide a way for me to land more clients, whether that means freelance work, more clients for my agency or employment at a company.",
-    "companyName": "mazstar.",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684888/portfolio2_oa52pw_v7sjao.png",
-    "projectLink": "#",
-    "role": "Frontend Developer"
   },
   {
     "id": 12,
