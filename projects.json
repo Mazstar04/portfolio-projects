@@ -21,6 +21,16 @@
   },
   {
     "id": 3,
+    "title": "EasyStatements",
+    "shortDesc": "EasyStatements is a web tool that allows users to quickly generate and download professional financial statements.",
+    "longDesc": "EasyStatements is a web-based platform that enables users to create professional financial or account statements quickly and easily. The platform allows users to input relevant information and instantly generate downloadable statements for documentation, verification, or reporting purposes. It simplifies the process of preparing structured financial records without the need for complex spreadsheets or accounting software.",
+    "companyName": "EasyStatements",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773494524/Screenshot_2026-03-14_142131_qjpvw2.png",
+    "projectLink": "https://easystatements.co/",
+    "role": "Frontend Developer"
+  },
+  {
+    "id": 4,
     "title": "Laycons",
     "shortDesc": "Laycons is a personal creative portfolio showcasing web design and development work.",
     "longDesc": "Laycons serves as a digital portfolio platform highlighting personal projects, UI/UX design work, and development case studies to attract collaborators and clients.",
@@ -30,7 +40,7 @@
     "role": "Frontend Developer"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Code Learners Hub",
     "shortDesc": "An online learning platform offering curated courses in web development and programming.",
     "longDesc": "Code Learners Hub provides a platform to learn, collaborate, and validate skills through curated courses. It has over 15k students taught and more than 12 years of combined tutor experience, offering guidance in Full Stack C#, Python, and JavaScript web development.",
@@ -40,7 +50,7 @@
     "role": "Frontend Developer"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "Kamdun",
     "shortDesc": "Kamdun presents tech solutions and digital services for modern businesses.",
     "longDesc": "Kamdun is a tech-focused portfolio site showcasing digital solutions and services aimed at helping businesses grow their online presence and leverage technology for performance and market reach.",
@@ -50,27 +60,27 @@
     "role": "Frontend Developer"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "My Portfolio",
-    "shortDesc": "showcases my work and let others know about me. It's like an evergreen platform for my projects, case studies, and information about me.",
-    "longDesc": "It provides a convenient way for potential clients to view my work while also allowing me to expand on my skills and services. This, however, isn’t the ultimate purpose of my portfolio website. The ultimate purpose of my portfolio website is to provide a way for me to land more clients, whether that means freelance work, more clients for my agency or employment at a company.",
+    "shortDesc": "Showcases my work and lets others learn more about me, including projects, case studies, and professional information.",
+    "longDesc": "My portfolio website highlights my projects, development experience, and technical skills. It serves as a central platform for potential clients, collaborators, or employers to explore my work and understand the value I bring as a developer. The site is designed to showcase my capabilities while also helping me attract freelance work, agency clients, or employment opportunities.",
     "companyName": "mazstar.",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684888/portfolio2_oa52pw_v7sjao.png",
     "projectLink": "#",
     "role": "Frontend Developer"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Atlaxa",
     "shortDesc": "Atlaxa is an e-commerce marketplace promoting authentic African goods and entrepreneurial growth.",
-    "longDesc": "Atlaxa is a dynamic online marketplace that connects African artisans, manufacturers, and entrepreneurs with global buyers. The platform showcases locally made products across categories such as fashion, crafts, home decor, and art, empowering local businesses to reach wider markets and promote African creativity globally. Atlaxa is designed to support economic growth and trade expansion for small and medium enterprises.",
+    "longDesc": "Atlaxa is a dynamic online marketplace that connects African artisans, manufacturers, and entrepreneurs with global buyers. The platform showcases locally made products across categories such as fashion, crafts, home decor, and art, empowering local businesses to reach wider markets and promote African creativity globally.",
     "companyName": "Atlaxa",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773493743/Screenshot_2026-03-14_140221_xf5ii7.png",
     "projectLink": "https://atlaxa.com/",
     "role": "Frontend Developer"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "Oddience",
     "shortDesc": "Oddience makes it easy for professionals to launch and scale their private practice.",
     "longDesc": "Oddience empowers professionals with instant business and booking pages that include global payments and conferencing features to help them grow their practice efficiently.",
@@ -82,48 +92,48 @@
   {
     "id": 10,
     "title": "Jalsa Registration Portal",
-    "shortDesc": "Ahmadiyya Muslim Jama'at Nigeria(AMJN) Jalsa Salana Registration Portal",
-    "longDesc": "It is a website where Ahmadiyya Muslim Jama'at Nigeria (AMJN) members and their guest(s) can register to attend the annual Jalsa Salana event.",
+    "shortDesc": "Ahmadiyya Muslim Jama'at Nigeria (AMJN) Jalsa Salana Registration Portal.",
+    "longDesc": "A web platform where members of the Ahmadiyya Muslim Jama'at Nigeria (AMJN) and their guests can register to attend the annual Jalsa Salana event. The system streamlines attendee registration, data management, and event coordination for the organization.",
     "companyName": "Sysbeams",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773494019/new_lglddm.png",
     "projectLink": "https://jalsa.ahmadiyyanigeria.net",
     "role": "Backend Developer, Frontend Developer, Team Lead"
   },
   {
-    "id": 12,
+    "id": 11,
     "title": "Funaab School Portal",
-    "shortDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
-    "longDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
+    "shortDesc": "An online gateway where students can log in to access academic and institutional information.",
+    "longDesc": "The portal allows students to access important academic information such as available courses, transcripts, timetables, exam schedules, department contact information, and institutional email programs through a centralized system.",
     "companyName": "Yuscomsoft",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684889/funaab_kpadfe_aqr81o.png",
     "projectLink": "https://portal.unaab.edu.ng",
     "role": "Backend Developer"
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "Movie App",
-    "shortDesc": "movie app is a web app that allows you to view details of content like movies, series and TV shows without requiring a paid subscription.",
-    "longDesc": "movie app is a web app that allows you to view details of content like movies, series and TV shows without requiring a paid subscription.",
+    "shortDesc": "A web application that allows users to explore movies, series, and TV show details.",
+    "longDesc": "The Movie App allows users to search and explore information about movies, television series, and shows. It displays key details such as ratings, descriptions, release dates, and related media without requiring a paid streaming subscription.",
     "companyName": "mazstar.",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684888/movie_tgz9yz_fxot3g.png",
     "projectLink": "https://friendly-unicorn-f27158.netlify.app",
     "role": "Frontend Developer"
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "Caleb School Portal",
-    "shortDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
-    "longDesc": "an online gateway where students can log into the school website to access important program information(s). It also contains information on courses offered, transcripts, email programs, timetables, exam schedules and department contact numbers.",
+    "shortDesc": "An academic portal for students to access school-related information and services.",
+    "longDesc": "The Caleb School Portal enables students to log in and manage their academic activities, access course information, view timetables, review exam schedules, and retrieve institutional communications and resources.",
     "companyName": "Yuscomsoft",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684887/caleb3_fjoj9t_wtxrny.png",
     "projectLink": "https://auth.ums.calebuniversity.edu.ng/",
     "role": "Software Engineer"
   },
   {
-    "id": 15,
+    "id": 14,
     "title": "Calculator App",
-    "shortDesc": "provides simple mathematical functions in a beautifully designed website. Perform basic calculations such as addition, subtraction, multiplication, and division.",
-    "longDesc": "provides simple mathematical functions in a beautifully designed website. Perform basic calculations such as addition, subtraction, multiplication, and division.",
+    "shortDesc": "A simple calculator web app for performing basic arithmetic operations.",
+    "longDesc": "A beautifully designed calculator web application that enables users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division through an intuitive and responsive interface.",
     "companyName": "mazstar.",
     "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1689684887/calc_n5ahi3_ej9ts8.png",
     "projectLink": "https://sunny-creponne-2d9930.netlify.app/",
