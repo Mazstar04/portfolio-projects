@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Aztralli",
+    "title": "Aztrallis",
     "shortDesc": "Aztralli is an African online marketplace connecting buyers, wholesalers, and sellers with secure escrow payments and delivery services.",
     "longDesc": "Aztralli is a digital e-commerce platform built to help African businesses and consumers trade efficiently online. The platform connects verified wholesalers and retailers in a secure ecosystem, enabling seamless buying, selling, and delivery while integrating escrow-based payment protection and real-time logistics support.",
     "companyName": "Aztralli",
-    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773491270/Screenshot_2026-03-14_132453_yr3mqz.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773492897/Screenshot_2026-03-14_135429_vq6aib.png",
     "projectLink": "https://aztralli.com/",
     "role": "Fullstack Developer"
   },
@@ -25,7 +25,7 @@
     "shortDesc": "Laycons is a personal creative portfolio showcasing web design and development work.",
     "longDesc": "Laycons serves as a digital portfolio platform highlighting personal projects, UI/UX design work, and development case studies to attract collaborators and clients.",
     "companyName": "Laycons",
-    "imgPath": "placeholder.png",
+    "imgPath": "https://res.cloudinary.com/mazstar/image/upload/v1773491920/Screenshot_2026-03-14_133707_ej8cw2.png",
     "projectLink": "https://laycons.netlify.app/",
     "role": "Frontend Developer"
   },
